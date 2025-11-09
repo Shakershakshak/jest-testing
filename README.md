@@ -1,4 +1,4 @@
-jest 
+jest install ...
 
 npm init  
 npm init jest@latest  
