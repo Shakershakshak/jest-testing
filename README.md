@@ -8,17 +8,17 @@ for ready :
 // npm i axios  
 
 ----------------------
- software testing :   jest for javascript testing  & manual testing & automated testing 
+ software testing :   jest for javascript testing  & manual testing & automated testing   
 
-unit testing 
-integration testing 
-API testing 
-testing mocks
-e2e testing : usage tools : 1- Supertest & 2- puppeteer 
-TDD
-Test Driven Development
-BDD  
-Behavior Driven Development : usage tools : cucumber
-Performance Testing : usage tools : JMeter
+unit testing   
+integration testing   
+API testing   
+testing mocks   
+e2e testing : usage tools : 1- Supertest & 2- puppeteer   
+TDD  
+Test Driven Development  
+BDD   
+Behavior Driven Development : usage tools : cucumber  
+Performance Testing : usage tools : JMeter  
 
 
