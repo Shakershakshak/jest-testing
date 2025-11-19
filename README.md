@@ -1,9 +1,9 @@
 jest install ...
 
-for new start :  
+- for new start :  
   // npm init  
   // npm init jest@latest  
-for ready :     
+- for ready :     
   // npm i jest --save-dev  
   // npm test  
   // npm i axios  
