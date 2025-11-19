@@ -1,12 +1,12 @@
 jest install ...
 
 for new start :  
-// npm init  
-// npm init jest@latest  
+  // npm init  
+  // npm init jest@latest  
 for ready :     
-// npm i jest --save-dev  
-// npm test  
-// npm i axios  
+  // npm i jest --save-dev  
+  // npm test  
+  // npm i axios  
 
 ----------------------
  Software Testing :   jest for javascript testing  & manual testing & automated testing   
