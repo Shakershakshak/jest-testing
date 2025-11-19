@@ -10,16 +10,23 @@ jest install ...
 
 ----------------------
  Software Testing :   jest for javascript testing  & manual testing & automated testing   
+  - Testing Strategy , Test Plan  
+Test Cases , Test Scenarios  
+unit testing - integration testing (tool :Supertest) - Regression – Smoke – Acceptance  
+API testing : usage : tools : Postman +Newman , pact(Contract Test) .  
+testing Mocking / Stubbing / Test coverage  
+e2e testing : usage tools : 1-puppeteer  , 2- *Playwright , 3- Cypress  
+TDD : Test Driven Development  
+BDD : Behavior Driven Development : usage tools : cucumber  
+Performance Testing : usage tools : JMeter , k6  
+Security Testing : usage tools : OWASP ZAP  
 
-unit testing   
-integration testing   
-API testing   
-testing mocks   
-e2e testing : usage tools : 1- Supertest & 2- puppeteer   
-TDD  
-Test Driven Development  
-BDD   
-Behavior Driven Development : usage tools : cucumber  
-Performance Testing : usage tools : JMeter  
+------------------
 
+Skills For Job :  
+Editor : Vs.Studio
+Git + CI/CD (GitHub Actions / GitLab CI)  
+Docker basics  
+Report Bugs  
+Agile / Scrum  
 
