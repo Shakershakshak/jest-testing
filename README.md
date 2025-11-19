@@ -8,7 +8,7 @@ for ready :
 // npm i axios  
 
 ----------------------
- software testing :   jest for javascript testing  & manual testing & automated testing   
+ Software Testing :   jest for javascript testing  & manual testing & automated testing   
 
 unit testing   
 integration testing   
